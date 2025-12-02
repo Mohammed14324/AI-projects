@@ -45,7 +45,3 @@ This repository will include projects across several AI domains:
 - **Scikit-Learn**
 - **Jupyter Notebooks**
 
----
-
-## 📂 Repository Structure
-
